@@ -9,7 +9,7 @@ This is a control algorithm implementation in C++. It implements the control met
 5. The amplification of other disturbances can be attenuated by the sensitivity function adjusted by a design parameter γ.
 6. The parameter γ can also adjust the complementary sensitivity function, which provides the robust stability without peaks.
 
-They are beneficial to realizing precise repetitive operations for automatic systems, such as actuators, industrial machines, robots, and so on.
+The PDOB is beneficial to realizing precise repetitive operations for automatic systems, such as actuators, industrial machines, robots, and so on.
 
 [1] Hisayoshi Muramatsu and Seiichiro Katsura, “An Adaptive Periodic-Disturbance Observer for Periodic-Disturbance Suppression,” IEEE Transactions on Industrial Informatics, vol. 14, no. 10, pp. 4446-4456, Oct. 2018.
 IEEE Xplore: http://ieeexplore.ieee.org/document/8288655/
