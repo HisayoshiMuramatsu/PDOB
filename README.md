@@ -19,7 +19,7 @@ https://www.jstage.jst.go.jp/article/ieejjia/8/2/8_177/_article/-char/ja/
 
 ## Description
 
-The PDOB can estimate and compensate for a periodic disturbance including a fundamental wave and harmonics.
+The PDOB can estimate and compensate for a periodic disturbance including harmonics.
 
 ## Example
 
