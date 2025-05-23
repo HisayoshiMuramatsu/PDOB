@@ -1,4 +1,9 @@
 # PDOB - Periodic-Disturbance Observer
+#### Note
+
+[GitHub - QDOB](https://github.com/HisayoshiMuramatsu/QDOB) provides an upgraded method for the PDOB.
+
+#### PDOB
 
 This is a control algorithm implementation in C++. It implements the control method proposed by [1] and developed by [2]. The periodic-disturbance observer (PDOB) has the following advantages.
 
